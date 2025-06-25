@@ -119,7 +119,7 @@ print(f"{color.GREEN} Successfully configured libraries!{color.END}")
 
 # === Cargar dataset ===
 try:
-    df = pd.read_csv('data/datos_actualizados.csv')
+    df = pd.read_csv('data/zalaries.csv')
     print(f"{color.GREEN} Dataset loaded successfully.{color.END}")
     print("\n--- DataFrame Info ---")
     print(df.info())
