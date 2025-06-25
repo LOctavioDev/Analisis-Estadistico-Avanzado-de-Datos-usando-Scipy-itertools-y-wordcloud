@@ -41,7 +41,7 @@ Se genera un reporte estadístico avanzado en HTML (`reporte_estadistico.html`),
 ![Resumen Estadistico](assets/i1.png)
 ![Resumen de variables](assets/i2.png)
 ![Resumen de atributos](assets/i3.png)
-![Heatmap de valores nulos](assets/imagen.png)
+![Heatmap de valores nulos](assets/missing_heatmap.png)
 
 
 
